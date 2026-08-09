@@ -11,4 +11,4 @@ npm run dev
 
 La aplicación corre en `http://localhost:3000`.
 
-Esta publicada en `http://localhost:3000` 
+Esta publicada en `https://eif511-tarea2-blog.netlify.app/` 
